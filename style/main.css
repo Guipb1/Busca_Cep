@@ -1,0 +1,26 @@
+input{
+   display: flex;
+   align-items: center;
+   background-color: #D3D3D3;
+   opacity: 0.3;
+   border-radius: 0.8rem;
+   font-weight: bold;
+   border-color: rgb(69, 69, 212);
+   color: black;
+
+  
+}
+
+input:hover{
+    background:#054d91;
+}
+
+.container{
+    padding-top: 15px;
+    display: flex;
+    align-items: center;    
+    justify-content:center ;
+    border-bottom: 1px solid red;
+    border-top: 1px solid red;
+}
+
